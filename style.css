@@ -214,3 +214,25 @@ header {
 }
 
 
+.bunas {
+   text-align: center;
+   background-color: #F6F4F2;
+   padding: 120px;
+   margin-top: 100px;
+   border-radius: 5px;
+   margin-bottom: 120px;
+}
+
+.bunas h2 {
+   font-size: 40px;
+   font-weight: bold;
+   color: #001931;
+
+}
+
+.bunas p {
+   color: #627382;
+   margin-bottom: 24px;
+   margin-top: 24px;
+
+}
